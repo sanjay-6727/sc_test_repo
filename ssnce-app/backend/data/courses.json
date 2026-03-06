@@ -1,0 +1,1002 @@
+{
+  "BME": {
+    "courseName": "Biomedical Engineering",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Physics for Biomedical Engineering", "id": "UPH1254", "c": 3},
+              {"name": "Basic Civil and Mechanical Engineering  ", "id": "UGE1276", "c": 3},
+              {"name": "Electronic Devices and Circuits", "id": "UBM1202", "c": 3.5},
+              {"name": "Circuit Theory", "id": "UBM1201", "c": 3.5},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 1.5},
+              {"name": "Electron Devices and Electric Circuits Lab ", "id": "UBM1211", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Transform Techniques & Partial Differential Equations  ", "id": "UMA1376", "c": 4},
+              {"name": "Sensors for Healthcare  ", "id": "UBM1301", "c": 3},
+              {"name": "OOPS and Java Programming", "id": "UIT1351", "c": 3},
+              {"name": "Fundamentals of Biochemistry", "id": "UBM1302", "c": 3},
+              {"name": "Human Anatomy and Physiology  ", "id": "UBM1303", "c": 3},
+              {"name": "Basics of Electrical Engineering  ", "id": "UEE1352", "c": 3},
+              {"name": "Biochemistry and Human Physiology Lab ", "id": "UBM1311", "c": 1.5},
+              {"name": "OOPS and Java Programming Lab ", "id": "UIT1371", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Probability Theory and Stochastic Processes ", "id": "UMA1477", "c": 4},
+              {"name": "Pathology and Microbiology  ", "id": "UBM1401", "c": 3},
+              {"name": "Fundamentals of Signals and Systems  ", "id": "UBM1402", "c": 3},
+              {"name": "Analog and Digital ICs   ", "id": "UBM1403", "c": 3},
+              {"name": "Analog and Digital Communication ", "id": "UBM1404", "c": 3},
+              {"name": "Biomaterials ", "id": "UBM1405", "c": 3},
+              {"name": "Pathology and Microbiology Lab ", "id": "UBM1411", "c": 1.5},
+              {"name": "Analog and Digital Integrated Circuits Lab ", "id": "UBM1412", "c": 1.5},
+              {"name": "Interpersonal Skills / Listening & Speaking ", "id": "UEN1497", "c": 1}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UBM1501", "c": 4, "name": "Biocontrol systems "},
+              {"id": "UBM1502", "c": 3, "name": "Medical Instrumentation "},
+              {"id": "UBM1503", "c": 3, "name": "Radiological Equipment"},
+              {"id": "UBM1504", "c": 3, "name": "Principles of Biomechanics "},
+              {"id": "UBM1505", "c": 4, "name": "Principles of Digital Signal Processing"},
+              {"id": "", "c": 3, "name": "Professional Elective – 1 "},
+              {"id": "UBM1511", "c": 2, "name": "Biomedical Instrumentation Lab"},
+              {"id": "UBM1512", "c": 2, "name": "Digital Signal Processing Lab "}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UBM1601", "name": "Medical Image Processing ", "c": 3},
+              {"id": "UBM1602", "name": "Diagnostic Equipment  ", "c": 3},
+              {"id": "UBM1603", "name": "Microcontroller and Embedded System Design ", "c": 3},
+              {"id": "UCY1276", "name": "Environmental Science  ", "c": 3},
+              {"id": "", "name": "Professional Elective - 2", "c": 3},
+              {"id": "", "name": "Professional Elective – 3", "c": 3},
+              {"id": "UBM1611", "name": "Microcontroller and Embedded System Design Lab ", "c": 2},
+              {"id": "UBM1612", "name": "Medical Image Processing Lab", "c": 2},
+              {"id": "UBM1617", "name": "Mini Project ", "c": 1}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "Applied Soft Computing", "id": "UBM1701", "c": 4},
+              {"name": "Surgical and Critical Care Equipment  ", "id": "UBM1702", "c": 3},
+              {"name": "Rehabilitation Engineering  ", "id": "UBM1703", "c": 3},
+              {"name": "Professional Elective - 4 ", "id": "", "c": 3},
+              {"name": "Professional Elective - 5", "id": "", "c": 3},
+              {"name": "Open Elective - 1", "id": "", "c": 3},
+              {"name": "Diagnostic and Therapeutic Equipment Lab  ", "id": "UBM1711", "c": 2},
+              {"name": "Medical System Design and Modelling Lab ", "id": "UBM1712", "c": 2},
+              {"name": "Hospital Training ", "id": "UBM1713", "c": 1}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Open Elective - 2 ", "id": "", "c": 3},
+              {"name": "Professional Elective – 6", "id": "", "c": 3},
+              {"name": "Project Work ", "id": "UBM1818", "c": 10}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "CSE": {
+    "courseName": "Computer Science Engineering",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Physics for Information Science", "id": "UPH1276", "c": 3},
+              {"name": "Environmental Science ", "id": "UCY1276", "c": 3},
+              {"name": "Basic Electrical, Electronics and Measurement Engineering", "id": "UEE1276", "c": 3.5},
+              {"name": "Programming in C ", "id": "UCS1201", "c": 3.5},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 1.5},
+              {"name": "Programming in C Lab ", "id": "UCS1211", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Discrete Mathematics ", "id": "UMA1377", "c": 4},
+              {"name": "Digital Principles and System Design", "id": "UCS1301", "c": 3},
+              {"name": "Data Structures", "id": "UCS1302", "c": 3},
+              {"name": "Object Oriented Programming using Java", "id": "UCS1303", "c": 3},
+              {"name": "UNIX and Shell Programming", "id": "UCS1304", "c": 3},
+              {"name": "Principles of Communication Engineering", "id": "UEC1351", "c": 3},
+              {"name": "Digital Design Lab", "id": "UCS1311", "c": 1.5},
+              {"name": "Data Structures Lab", "id": "UCS1312", "c": 2},
+              {"name": "Object Oriented Programming using Java Lab", "id": "UCS1313", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Probability and Statistics", "id": "UMA1478", "c": 4},
+              {"name": "Computer Organization and Architecture", "id": "UCS1401", "c": 3},
+              {"name": "Operating Systems", "id": "UCS1402", "c": 3},
+              {"name": "Design and Analysis of Algorithms ", "id": "UCS1403", "c": 4},
+              {"name": "Database Management Systems", "id": "UCS1404", "c": 3},
+              {"name": "Software Engineering", "id": "UCS1405", "c": 3},
+              {"name": "Operating Systems Lab", "id": "UCS1411", "c": 1.5},
+              {"name": "Database Lab ", "id": "UCS1412", "c": 1.5},
+              {"name": "Interpersonal Skills", "id": "UEN1498", "c": 1}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UCS1501", "c": 3, "name": "Computer Networks "},
+              {"id": "UCS1502", "c": 3, "name": "Microprocessors and Interfacing "},
+              {"id": "UCS1503", "c": 4, "name": "Theory of Computation"},
+              {"id": "UCS1504", "c": 4, "name": "Artificial Intelligence"},
+              {"id": "UCS1505", "c": 3, "name": "Introduction to Cryptographic Techniques"},
+              {"id": "UCS1506", "c": 3, "name": "Professional Elective – 1 "},
+              {"id": "UCS1511", "c": 1.5, "name": "Networks Lab"},
+              {"id": "UCS1512", "c": 1.5, "name": "Microprocessors Lab"}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UCS1601", "name": "Internet Programming", "c": 3},
+              {"id": "UCS1602", "name": "Compiler Design", "c": 4},
+              {"id": "UCS1603", "name": "Introduction to Machine Learning", "c": 3},
+              {"id": "UCS1604", "name": " Object Oriented Analysis and Design ", "c": 3},
+              {"id": "UCS1605", "name": "Professional Elective – 2", "c": 3},
+              {"id": "UCS1606", "name": "Open Elective - 1 ", "c": 3},
+              {"id": "UCS1611", "name": "Internet Programming Lab ", "c": 1.5},
+              {"id": "UCS1617", "name": "Mini Project", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "Distributed Systems", "id": "UCS1701", "c": 3},
+              {"name": "Mobile Computing ", "id": "UCS1702", "c": 3},
+              {"name": "Graphics and Multimedia", "id": "UCS1703", "c": 3},
+              {"name": "Management and Ethical Practices", "id": "UCS1704", "c": 3},
+              {"name": "Professional Elective - 3 ", "id": "UCS1705", "c": 3},
+              {"name": "Professional Elective - 4", "id": "UCS1706", "c": 3},
+              {"name": "Mobile Application Development Lab ", "id": "UCS1711", "c": 1.5},
+              {"name": "Graphics and MultimediaLab", "id": "UCS1712", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Professional Elective - 5 ", "id": "UCS1801", "c": 3},
+              {"name": "Open Elective – 2", "id": "UCS1802", "c": 3},
+              {"name": "Project Work", "id": "UCS1818", "c": 9}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "MECH": {
+    "courseName": "Mechanical Engineering",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Material Science for Mechanical Engineering ", "id": "UPH1252", "c": 3},
+              {"name": "Environmental Science  ", "id": "UCY1276", "c": 3},
+              {"name": "Engineering Mechanics ", "id": "UME1201", "c": 4},
+              {"name": "Fundamentals of Electrical and Electronics Engineering", "id": "UEE1251", "c": 3},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 2},
+              {"name": "Electrical and Electronics Engineering Lab  ", "id": "UEE1271", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Transform Techniques & Partial Differential Equations  ", "id": "UMA1376", "c": 4},
+              {"name": "Engineering Thermodynamics   ", "id": "UME1301", "c": 4},
+              {"name": "Fluid Mechanics and Machinery ", "id": "UME1302", "c": 3},
+              {"name": "Manufacturing Processes I ", "id": "UME1303", "c": 4},
+              {"name": "Strength of Materials  ", "id": "UME1304", "c": 3},
+              {"name": "Kinematics of Machinery ", "id": "UME1305", "c": 3},
+              {"name": "Fluid Mechanics and Machinery Lab", "id": "UME1311", "c": 1.5},
+              {"name": "Strength of Materials Lab", "id": "UME1312", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Statistics and Numerical Methods ", "id": "UMA1476", "c": 4},
+              {"name": "Engineering Metallurgy", "id": "UME1401", "c": 3},
+              {"name": "Manufacturing Processes II   ", "id": "UME1402", "c": 4},
+              {"name": "Thermal Engineering   ", "id": "UME1403", "c": 3},
+              {"name": "Dynamics of Machines  ", "id": "UME1404", "c": 3},
+              {"name": "Professional Elective - 1", "id": "", "c": 3},
+              {"name": "Thermal Engineering Lab ", "id": "UME1411", "c": 1.5},
+              {"name": "Dynamics Lab", "id": "UME1412", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UME1501", "c": 4, "name": "Metrology and Measurements "},
+              {"id": "UM1E502", "c": 3, "name": "Computer Aided Design and Manufacturing "},
+              {"id": "UME1503", "c": 3, "name": "Design of Machine Elements "},
+              {"id": "UME1504", "c": 4, "name": "Heat and Mass Transfer "},
+              {"id": "UGE1576", "c": 3, "name": "Professional Ethics "},
+              {"id": "", "c": 3, "name": "Professional Elective – 2 "},
+              {"id": "UME1511", "c": 1.5, "name": "Heat Transfer Lab"},
+              {"id": "UME1512", "c": 1.5, "name": "Computer Aided Design and Manufacturing Lab "}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UME1601", "name": "Design of Mechanical Drives ", "c": 3},
+              {"id": "UME1602", "name": "Finite Element Analysis  ", "c": 3},
+              {"id": "UME1603", "name": "Automobile engineering ", "c": 3},
+              {"id": "UME1604", "name": "Power Plant Engineering", "c": 3},
+              {"id": "UME1605", "name": "Operations Research  ", "c": 4},
+              {"id": "", "name": "Professional Elective – 3", "c": 3},
+              {"id": "UME1611", "name": "Simulation Lab   ", "c": 1.5},
+              {"id": "UME1612", "name": "Designand Fabrication Project ", "c": 1.5},
+              {"id": "UEN1597", "name": "Professional Communications Lab", "c": 1}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "Industrial Practices  ", "id": "", "c": 3},
+              {"name": "Mechatronics and Automation  ", "id": "UME1701", "c": 3},
+              {"name": "Computer Integrated  Manufacturing  ", "id": "UME1702", "c": 3},
+              {"name": "Open Elective - 1 ", "id": "", "c": 3},
+              {"name": "Professional Elective - 4", "id": "", "c": 3},
+              {"name": "Professional Elective - 5", "id": "", "c": 3},
+              {"name": "Mechatronics and Automation Lab  ", "id": "UCE1717", "c": 1.5},
+              {"name": "Project Work – Phase I  ", "id": "UCE1716", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Open Elective - 2 ", "id": "", "c": 3},
+              {"name": "Professional Elective – 6", "id": "", "c": 3},
+              {"name": "Project Work - Phase II", "id": "UME1818", "c": 10}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "CHEM": {
+    "courseName": "Chemical Engineering",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Physics of Materials ", "id": "UPH1253", "c": 3},
+              {"name": "Chemistry for Technologists ", "id": "UCY1251", "c": 3},
+              {"name": "Basic Mechanical Engineering", "id": "UME1251", "c": 4},
+              {"name": "Principles of Chemical Engineering", "id": "UCH1201", "c": 3},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 1.5},
+              {"name": "Chemical Analysis Lab ", "id": "UCH1211", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Transform Techniques & Partial Differential Equations  ", "id": "UMA1376", "c": 4},
+              {"name": "Chemical Process Calculations  ", "id": "UCH1301", "c": 3.5},
+              {"name": "Fluid Mechanics for Chemical Engineers ", "id": "UCH1302", "c": 3.5},
+              {"name": "Physical & Organic Chemistry", "id": "UCY1351", "c": 3},
+              {"name": "Principles of Electrical and Electronics Engineering ", "id": "UEE1351", "c": 3},
+              {"name": "Solid Mechanics for Technologists ", "id": "UCE1351", "c": 3},
+              {"name": "Electrical Engineering Lab", "id": "UEE1371", "c": 2},
+              {"name": "Mechanical Engineering Lab", "id": "UME1371", "c": 2}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Statistics and Numerical Methods", "id": "UMA1476", "c": 4},
+              {"name": "Chemical Engineering Thermodynamics I ", "id": "UCH1401", "c": 3},
+              {"name": "Environmental Science ", "id": "UCY1276", "c": 3},
+              {"name": "Mechanical Operations  ", "id": "UCH1402", "c": 3},
+              {"name": "Chemical Process Industries ", "id": "UCH1403", "c": 3},
+              {"name": "Heat Transfer ", "id": "UCH1404", "c": 3},
+              {"name": "Fluid Mechanics Lab ", "id": "UCH1411", "c": 2},
+              {"name": "Organic Chemistry Lab", "id": "UCY1471", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UCH1501", "c": 3, "name": "Industrial Process Plant Safety  "},
+              {"id": "UCH1502", "c": 4, "name": "Chemical Engineering Thermodynamics II "},
+              {"id": "UCH1503", "c": 3.5, "name": "Mass Transfer I"},
+              {"id": "UCH1504", "c": 3.5, "name": "Chemical Reaction Engineering I"},
+              {"id": "", "c": 3, "name": "Open Elective - 1 "},
+              {"id": "", "c": 3, "name": "Professional Elective – 1 "},
+              {"id": "UCH1511", "c": 2, "name": "Mechanical Operations Lab"},
+              {"id": "UCH1512", "c": 2, "name": "Heat Transfer Lab "}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UCH1601", "name": "Chemical Reaction Engineering II", "c": 3.5},
+              {"id": "UCH1602", "name": "Mass Transfer II ", "c": 3.5},
+              {"id": "UCH1603", "name": "Process Dynamics and Control", "c": 3},
+              {"id": "UCH1604", "name": " Instrumental Methods of Analysis ", "c": 3},
+              {"id": "", "name": "Open Elective - 2", "c": 3},
+              {"id": "", "name": "Professional Elective – 2", "c": 3},
+              {"id": "UCH1611", "name": "Chemical Reaction Engineering Lab ", "c": 2},
+              {"id": "UCH1612", "name": "Mass Transfer Lab", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "Transport Phenomena ", "id": "UCH1701", "c": 3},
+              {"name": "Process Equipment Design ", "id": "UCH1702", "c": 3},
+              {"name": "Process Engineering Economics ", "id": "UCH1703", "c": 3},
+              {"name": "Chemical Process Modelling and Simulation  ", "id": "UCH1704", "c": 3},
+              {"name": "Professional Elective - 3", "id": "", "c": 3},
+              {"name": "Professional Elective - 4", "id": "", "c": 3},
+              {"name": "Process Control Lab ", "id": "UCH1711", "c": 2},
+              {"name": "Computational Programming Laboratory for Chemical Engineers", "id": "UCH1712", "c": 2}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Professional Elective - 5 ", "id": "", "c": 3},
+              {"name": "Professional Elective – 6", "id": "", "c": 3},
+              {"name": "Project Work ", "id": "UCH1818", "c": 10}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "CIVIL": {
+    "courseName": "Civil Engineering",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Physics for Civil Engineering ", "id": "UPH1251", "c": 3},
+              {"name": "Environmental Science  ", "id": "UCY1276", "c": 3},
+              {"name": "Basic Electrical and Electronics Engineering", "id": "UEE1252", "c": 3},
+              {"name": "Engineering Mechanics for Civil Engineering", "id": "UCE1201", "c": 4},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 1.5},
+              {"name": "Computer Aided Building Drawing ", "id": "UCE1211", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Transform Techniques & Partial Differential Equations  ", "id": "UMA1376", "c": 4},
+              {"name": "Mechanics of Solids I  ", "id": "UCE1301", "c": 3},
+              {"name": "Mechanics of Fluids ", "id": "UCE1302", "c": 3},
+              {"name": "Surveying", "id": "UCE1303", "c": 3},
+              {"name": "Construction Materials  ", "id": "UCE1304", "c": 3},
+              {"name": "Engineering Geology  ", "id": "UCE1305", "c": 3},
+              {"name": "Surveying Lab", "id": "UCE1311", "c": 2},
+              {"name": "Construction Materials Lab ", "id": "UCE1312", "c": 2}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Numerical Methods in Civil Engineering", "id": "UMA1451", "c": 4},
+              {"name": "Mechanics of Solids II ", "id": "UCE1401", "c": 3},
+              {"name": "Applied Hydraulic Engineering  ", "id": "UCE1402", "c": 3},
+              {"name": "Geotechnical Engineering I  ", "id": "UCE1403", "c": 3},
+              {"name": "Construction Techniques, Equipment and Practices  ", "id": "UCE1404", "c": 3},
+              {"name": "Professional Elective - 1", "id": "", "c": 3},
+              {"name": "Strength of Materials Lab  ", "id": "UCE1411", "c": 2},
+              {"name": "Hydraulic Engineering Lab", "id": "UCE1412", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UCE1501", "c": 3, "name": "Structural Analysis I "},
+              {"id": "UC1E502", "c": 3, "name": "Geotechnical Engineering II "},
+              {"id": "UCE1503", "c": 4, "name": "Reinforced Cement Concrete Design "},
+              {"id": "UCE1504", "c": 3, "name": "Water Supply Engineering "},
+              {"id": "", "c": 3, "name": "Open Elective - 1 "},
+              {"id": "", "c": 3, "name": "Professional Elective – 2 "},
+              {"id": "UCE1511", "c": 2, "name": "Soil Mechanics Lab"},
+              {"id": "UCE1512", "c": 2, "name": "Advanced Surveying Lab "},
+              {"id": "UEN1597", "c": 1, "name": "Professional Communications Lab "}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UCE1601", "name": "Structural Analysis II", "c": 3},
+              {"id": "UCE1602", "name": "Design of Steel Structures ", "c": 4},
+              {"id": "UCE1603", "name": "Transportation Engineering I", "c": 3},
+              {"id": "UCE1604", "name": "Wastewater Engineering", "c": 3},
+              {"id": "UCE1605", "name": "Irrigation and Water Resources Engineering ", "c": 3},
+              {"id": "", "name": "Professional Elective – 3", "c": 3},
+              {"id": "UCE1611", "name": "Irrigation and Environmental Engineering Drawing  ", "c": 2},
+              {"id": "UCE1612", "name": "Water and Wastewater Analysis Lab", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "Construction Economics and Project Management  ", "id": "UCE1701", "c": 3},
+              {"name": "Structural Design and Drawing ", "id": "UCE1702", "c": 4},
+              {"name": "Estimation and Quantity Surveying  ", "id": "UCE1703", "c": 3},
+              {"name": "Transportation Engineering II   ", "id": "UCE1704", "c": 3},
+              {"name": "Professional Elective - 4", "id": "", "c": 3},
+              {"name": "Open Elective - 2", "id": "", "c": 3},
+              {"name": "Innovative Design Project  ", "id": "UCE1717", "c": 2},
+              {"name": "Industrial Training ", "id": "UCE1716", "c": 1}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Professional Elective - 5 ", "id": "", "c": 3},
+              {"name": "Professional Elective – 6", "id": "", "c": 3},
+              {"name": "Project Work ", "id": "UCH1818", "c": 10}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ECE": {
+    "courseName": "Electronics and Communication Engineering",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Physics for Electronics Engineering", "id": "UPH1277", "c": 3},
+              {"name": "Circuit Analysis ", "id": "UEC1201", "c": 4},
+              {"name": "Basic Electrical, Electronics and Measurement Engineering", "id": "UEE1253", "c": 3},
+              {"name": "Electronic Devices ", "id": "UEC1202", "c": 3},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 1.5},
+              {"name": "Circuits and Devices Lab ", "id": "UEC1211", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Linear Algebra and Numerical Methods ", "id": "UMA1351", "c": 4},
+              {"name": "Electronic Circuits I ", "id": "UEC1301", "c": 3},
+              {"name": "Digital System Design", "id": "UEC1302", "c": 3},
+              {"name": "Signals and Systems", "id": "UEC1303", "c": 4},
+              {"name": "Object Oriented Programming and Data Structures ", "id": "UCS1351", "c": 3},
+              {"name": "Electromagnetic Fields", "id": "UEC1304", "c": 4},
+              {"name": "OOP and Data Structures Lab", "id": "UCS1371", "c": 1.5},
+              {"name": "Analog and Digital Circuits Lab ", "id": "UEC1311", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Probability Theory and Stochastic processes", "id": "UMA1477", "c": 4},
+              {"name": "Electronic Circuits II ", "id": "UEC1401", "c": 3},
+              {"name": "Digital Signal Processing  ", "id": "UEC1402", "c": 4},
+              {"name": "Linear Integrated Circuits", "id": "UEC1403", "c": 3},
+              {"name": "Principles of Communication Systems ", "id": "UCS1404", "c": 3},
+              {"name": "Electronic Circuits II and LIC Lab", "id": "UEC1411", "c": 1.5},
+              {"name": "Digital Signal Processing Lab ", "id": "UEC1412", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UEC1501", "c": 3, "name": "Digital Communication  "},
+              {"id": "UEC1502", "c": 3, "name": "Microprocessors, Microcontroller and Interfacing "},
+              {"id": "UEC1503", "c": 3, "name": "Transmission Lines and Waveguides"},
+              {"id": "UCS1551", "c": 3, "name": "Computer Architecture and Organization"},
+              {"id": "UEE1551", "c": 3, "name": "Control Systems Engineering "},
+              {"id": "", "c": 3, "name": "Professional Elective – 1 "},
+              {"id": "UEC1511", "c": 1, "name": "Analog and Digital Communication Lab"},
+              {"id": "UEC1512", "c": 1, "name": "Microprocessor and Microcontroller Lab"},
+              {"id": "UEN1597", "c": 1, "name": "Professional Communications Lab "}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UEC1601", "name": "Principles of VLSI Design", "c": 3},
+              {"id": "UEC1602", "name": "Wireless Communications ", "c": 3},
+              {"id": "UEC1603", "name": "System Design for IoT", "c": 3},
+              {"id": "UEC1604", "name": " Communication Networks", "c": 4},
+              {"id": "UEC1606", "name": "Machine Learning", "c": 4},
+              {"id": "", "name": "Professional Elective – 2", "c": 3},
+              {"id": "UEC1611", "name": "VLSI Design Lab ", "c": 1},
+              {"id": "UEC1612", "name": "System Design for IoT Lab", "c": 1}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "High Frequency Communication Systems ", "id": "UEC1701", "c": 3},
+              {"name": "Microwave Engineering and Antennas", "id": "UEC1702", "c": 3},
+              {"name": "Professional Ethics and Management Practices", "id": "UEC1703", "c": 3},
+              {"name": "Professional Elective - 3 ", "id": "", "c": 3},
+              {"name": "Professional Elective - 4", "id": "", "c": 3},
+              {"name": "Open Elective - 1", "id": "", "c": 3},
+              {"name": "Wireless Communication Lab ", "id": "UEC1711", "c": 1},
+              {"name": "Microwave and Antennas Lab", "id": "UEC1712", "c": 1},
+              {"name": "Project Work Stage – I", "id": "UEC1718", "c": 1}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Professional Elective - 5 ", "id": "", "c": 3},
+              {"name": "Open Elective – 2", "id": "", "c": 3},
+              {"name": "Project Work Stage - 2", "id": "UEC1818", "c": 9}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "EEE": {
+    "courseName": "Electrical and Electronics Engineering",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Physics for Electronics Engineering", "id": "UPH1277", "c": 3},
+              {"name": "Environmental Science ", "id": "UCY1276", "c": 3},
+              {"name": "Basic Civil and Mechanical Engineering", "id": "UGE1276", "c": 3},
+              {"name": "Electric Circuit Analysis ", "id": "UEE1201", "c": 4},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 1.5},
+              {"name": "Electric Circuits Lab", "id": "UEE1211", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Transform Techniques and Partial Differential Equations ", "id": "UMA1351", "c": 4},
+              {"name": "Electronic Machines I ", "id": "UEE1301", "c": 3},
+              {"name": "Electromagnetic Theory", "id": "UEE1302", "c": 3},
+              {"name": "Electronics Devices and Circuits", "id": "UEE1303", "c": 3},
+              {"name": "Object Oriented Programming ", "id": "UCE1304", "c": 3},
+              {"name": "Modern Power Plant Engineering", "id": "UEE1305", "c": 3},
+              {"name": "Electrical Machines Lab - I", "id": "UEE1311", "c": 2},
+              {"name": "Object Oriented Programming Lab ", "id": "UEE1312", "c": 1}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Numerical methods", "id": "UMA1451", "c": 4},
+              {"name": "Electrical Machines – II", "id": "UEE1401", "c": 3},
+              {"name": "Transmission and Distribution ", "id": "UEE1402", "c": 3},
+              {"name": "Control Systems ", "id": "UEE1403", "c": 4},
+              {"name": "Digital Logic System Design", "id": "UEE1404", "c": 3},
+              {"name": "Analog Electronic Circuits ", "id": "UEE1405", "c": 3},
+              {"name": "Electrical Machines Lab – II", "id": "UEE1411", "c": 2},
+              {"name": "Analog and Digital electronic circuits Lab", "id": "UEE1412", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UEE1501", "c": 3, "name": "Power System Analysis "},
+              {"id": "UEE1502", "c": 3, "name": "Discrete Time Signals and Systems "},
+              {"id": "UEE1503", "c": 3, "name": "Microprocessor and  Microcontroller - Theory and Applications"},
+              {"id": "UEE1504", "c": 3, "name": "Power Electronics"},
+              {"id": "UEE1505", "c": 3, "name": "Electrical Measurements and Instrumentation Systems "},
+              {"id": "", "c": 3, "name": "Professional Elective – 1 "},
+              {"id": "UEC1511", "c": 2, "name": "Control and Instrumentation Lab"},
+              {"id": "UEC1512", "c": 2, "name": "Microprocessor and Microcontroller Lab"}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UEE1601", "name": "Solid State Drives", "c": 3},
+              {"id": "UEE1602", "name": "Communication Engineering ", "c": 3},
+              {"id": "UEE1603", "name": "Protection and Switch Gear", "c": 3},
+              {"id": "UEE1604", "name": " Power System Operation and Control ", "c": 3},
+              {"id": "", "name": "Open Elective ", "c": 3},
+              {"id": "", "name": "Professional Elective – 2", "c": 3},
+              {"id": "UEE1611", "name": "Power Electronics and Drives Lab ", "c": 2},
+              {"id": "UEE1612", "name": "Power System Simulation Lab", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "Electrical Machine Design ", "id": "UEE1701", "c": 3},
+              {"name": "High voltage Engineering", "id": "UEE1702", "c": 3},
+              {"name": "Special Electrical Machines", "id": "UEE1703", "c": 3},
+              {"name": "Professional Elective - 3 ", "id": "", "c": 3},
+              {"name": "Professional Elective - 4", "id": "", "c": 3},
+              {"name": "Open Elective ", "id": "", "c": 3},
+              {"name": "Advanced Electrical Engineering Lab", "id": "UEE1711", "c": 2},
+              {"name": "Project work - Phase I ", "id": "UEE1718", "c": 3}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Professional Elective - 5 ", "id": "", "c": 3},
+              {"name": "Professional Elective – 6", "id": "", "c": 3},
+              {"name": "Project Work Stage - II", "id": "UEC1818", "c": 8}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "IT": {
+    "courseName": "Information Technology",
+    "courseUnits": [
+      {
+        "year": "1",
+        "sems": [
+          {
+            "sem": "1",
+            "subs": [
+              {"name": "Communicative English ", "id": "UEN1176", "c": 3},
+              {"name": "Algebra and Calculus", "id": "UMA1176", "c": 4},
+              {"name": "Engineering Physics", "id": "UPH1176", "c": 3},
+              {"name": "Engineering Chemistry", "id": "UCY1176", "c": 3},
+              {"name": "Problem Solving and Programming in Python", "id": "UGE1176", "c": 3},
+              {"name": "Engineering Graphics", "id": "UGE1177", "c": 3},
+              {"name": "Programming in Python Lab ", "id": "UGE1197", "c": 1.5},
+              {"name": "Physics and Chemistry Lab ", "id": "UGS1177", "c": 1.5}
+            ]
+          },
+          {
+            "sem": "2",
+            "subs": [
+              {"name": "Technical English", "id": "UEN1276", "c": 3},
+              {"name": "Complex Functions and Laplace Transforms", "id": "UMA1276", "c": 4},
+              {"name": "Physics for Information Science", "id": "UPH1276", "c": 3},
+              {"name": "Environmental Science ", "id": "UCY1276", "c": 3},
+              {"name": "Basic Electrical, Electronics and Measurement Engineering", "id": "UEE1276", "c": 3.5},
+              {"name": "Fundamentals of C programming ", "id": "UIT1201", "c": 3.5},
+              {"name": "Design Thinking and Engineering Practices Lab", "id": "UGE1297", "c": 1.5},
+              {"name": "Programming in C Lab ", "id": "UCS1211", "c": 1.5}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2",
+        "sems": [
+          {
+            "sem": "3",
+            "subs": [
+              {"name": "Discrete Mathematics ", "id": "UMA1377", "c": 4},
+              {"name": "Digital Electronics", "id": "UIT1301", "c": 4},
+              {"name": "Fundamentals of Data Structures", "id": "UIT1302", "c": 3},
+              {"name": "Principles of analog and digital communication", "id": "UIT1303", "c": 3},
+              {"name": "Database Management Systems and Applications", "id": "UIT1304", "c": 3},
+              {"name": "Computer Organization", "id": "UIT1351", "c": 3},
+              {"name": "Programming and Data Structures Lab - I", "id": "UIT1311", "c": 2},
+              {"name": "Database Management Systems and Applications Lab ", "id": "UIT1312", "c": 2}
+            ]
+          },
+          {
+            "sem": "4",
+            "subs": [
+              {"name": "Probability and Statistics", "id": "UMA1478", "c": 4},
+              {"name": "Principles of Software Engineering", "id": "UIT1401", "c": 3},
+              {"name": "Information Theory and Applications", "id": "UIT1402", "c": 3},
+              {"name": "Microprocessors and Microcontrollers ", "id": "UIT1403", "c": 3},
+              {"name": "Advanced Data Structures", "id": "UIT1404", "c": 3},
+              {"name": "Algorithm Design and Analysis", "id": "UIT1405", "c": 3},
+              {"name": "Microprocessor and Microcontroller Lab", "id": "UIT1411", "c": 2},
+              {"name": "Programming and Data Structures Lab - II ", "id": "UIT1412", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "3",
+        "sems": [
+          {
+            "sem": "5",
+            "subs": [
+              {"id": "UIT1501", "c": 3, "name": "Finite Automata Theory "},
+              {"id": "UIT1502", "c": 3, "name": "Principles of Operating Systems "},
+              {"id": "UIT1503", "c": 4, "name": "Computer Networks and Its Applications"},
+              {"id": "UIT1504", "c": 4, "name": "Introduction to Digital Signal Processing"},
+              {"id": "UIT1505", "c": 3, "name": "Artificial Intelligence Concepts and Algorithms"},
+              {"id": "", "c": 3, "name": "Professional Elective I  "},
+              {"id": "UIT1511", "c": 2, "name": "Software Design Lab"},
+              {"id": "UIT1512", "c": 2, "name": "Operating Systems Lab"}
+            ]
+          },
+          {
+            "sem": "6",
+            "subs": [
+              {"id": "UIT1601", "name": "Principles of Complier Design", "c": 4},
+              {"id": "UIT1602", "name": "Web Programming", "c": 3},
+              {"id": "UIT1603", "name": "Big Data Engineering ", "c": 3},
+              {"id": "UIT1604", "name": " Machine Learning Fundamentals  ", "c": 4},
+              {"id": "", "name": "Open Elective I", "c": 3},
+              {"id": "", "name": "Professional Elective II ", "c": 3},
+              {"id": "UEN1497", "name": "Interpersonal Skills/Listening & Speaking ", "c": 1},
+              {"id": "UIT1611", "name": "Web Programming Lab", "c": 2}
+            ]
+          }
+        ]
+      },
+      {
+        "year": "4",
+        "sems": [
+          {
+            "sem": "7",
+            "subs": [
+              {"name": "Management Principles and Practices", "id": "UIT1701", "c": 3},
+              {"name": "Cloud Computing and Virtualization ", "id": "UIT1702", "c": 3},
+              {"name": "Network Security", "id": "UIT1703", "c": 3},
+              {"name": "Open Elective II", "id": "", "c": 3},
+              {"name": "Professional Elective III ", "id": "", "c": 3},
+              {"name": "Professional Elective IV ", "id": "", "c": 3},
+              {"name": "Mobile Application Development Lab ", "id": "UIT1711", "c": 2},
+              {"name": "Professional Communication Lab", "id": "UEN1597", "c": 1}
+            ]
+          },
+          {
+            "sem": "8",
+            "subs": [
+              {"name": "Professional Elective V ", "id": "", "c": 3},
+              {"name": "Professional Elective VI", "id": "", "c": 3},
+              {"name": "Project Work", "id": "UIT1818", "c": 10}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

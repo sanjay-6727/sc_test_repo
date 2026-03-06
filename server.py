@@ -1,5 +1,6 @@
 from fastapi import FastAPI, Request
 from auth import get_installation_token, get_pr_files, comment_on_pr
+from orchestrator.review_pipeline import run_stagecraft_review, build_report
 
 app = FastAPI()
 
@@ -28,24 +29,23 @@ async def webhook(request: Request):
         if action == "opened":
 
             print("Authenticating GitHub App...")
-
             token = get_installation_token(installation_id)
 
             print("Fetching PR files...")
-
             files = get_pr_files(repo, pr_number, token)
 
-            print("Files changed:")
-            for f in files:
-                print("-", f["filename"])
+            print(f"Analyzing {len(files)} files with Multi-Agent Orchestrator...")
+            
+            # Run the multi-agent review pipeline
+            review_results = run_stagecraft_review(files)
+            
+            # Build the aggregated report
+            report = build_report(review_results)
 
-            comment_on_pr(
-                repo,
-                pr_number,
-                token,
-                "🚀 **Stagecraft SDLC Agent** has started reviewing this PR."
-            )
+            print("Posting review report to GitHub...")
+            comment_on_pr(repo, pr_number, token, report)
 
-            print("Comment posted!")
+            print("Review posted successfully!")
 
     return {"status": "ok"}
+
